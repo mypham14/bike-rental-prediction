@@ -4,7 +4,7 @@ Combination of machine learning regression, ensemble learning and deep learning 
 Data source: bikesharing.csv - [Kaggle](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Bike%20Sharing)
 
 Project 1 has 2 parts:
-* **Part 1**: Regression Task - Bike Rental Prediction: data cleaning, supervised machine learning regression models
+* **Part 1**: [Regression Task - Bike Rental Prediction](https://github.com/mypham14/bike-rental-prediction/blob/master/Project%201.ipynb): data cleaning, supervised machine learning regression models
 * **Part 2**: [Classification Task - Heart Disease Prediction](): data cleaing, supervised machine learning classification models
 
 Project 2 has 2 parts:
