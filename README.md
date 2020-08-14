@@ -1,5 +1,5 @@
-# bike-rental-prediction
-Combination of machine learning regression models to predict bike rental count
+# Bike Rental Prediction
+Combination of machine learning regression, ensemble learning and deep learning models to predict bike rental count
 
 Data source: bikesharing.csv - [Kaggle](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Bike%20Sharing)
 
